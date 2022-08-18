@@ -21,10 +21,10 @@ Contact : blm ada
 , or i will jump like nishimiya >:(
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Yayan-XD&show_icons=true&theme=dark)
-<a href="https://github.com/AfrianiXD/Aisyahfb"><img title="ymbf" src="https://github-readme-stats.vercel.app/api/pin/?username=Afriani-XD&repo=ymbf&theme=vision-friendly-dark"></a>
-<a href="https://github.com/AfrianiXD/4MBF"><img title="Brute" src="https://github-readme-stats.vercel.app/api/pin/?username=Afriani-XD&repo=Brute&theme=vision-friendly-dark"></a>
-<a href="https://github.com/AfrianiXD/prefb"><img title="Cr4ck" src="https://github-readme-stats.vercel.app/api/pin/?username=Afriani-XD&repo=Cr4ck&theme=vision-friendly-dark"></a>
+<a href="https://github.com/AfrianiXD/Aisyahfb"><img title="ymbf" src="https://github-readme-stats.vercel.app/api/pin/?username=AfrianiXD&repo=ymbf&theme=vision-friendly-dark"></a>
+<a href="https://github.com/AfrianiXD/4MBF"><img title="Brute" src="https://github-readme-stats.vercel.app/api/pin/?username=AfrianiXD&repo=Brute&theme=vision-friendly-dark"></a>
+<a href="https://github.com/AfrianiXD/prefb"><img title="Cr4ck" src="https://github-readme-stats.vercel.app/api/pin/?username=AfrianiXD&repo=Cr4ck&theme=vision-friendly-dark"></a>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yayan-XD&layout=compact" alt="Top language">
 
-![template_s](https://github.com/AfrianiXD/Afriani-XD/blob/master/img/wallpaperbetter_(1).jpg)
+![template_s](https://github.com/AfrianiXD/AfrianiXD/blob/master/img/wallpaperbetter_(1).jpg)
