@@ -28,7 +28,7 @@
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 
-<a href="https://github.com/AfrianiXD"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=RIDOY-404-CYBER&theme=monokai"></a>
+<a href="https://github.com/AfrianiXD"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=AfrianiXD&theme=monokai"></a>
 
 </p>
 
