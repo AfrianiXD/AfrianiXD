@@ -1,4 +1,4 @@
-<img src="https://github.com/AfrianiXD/AfrianiXD/blob/master/img/20200909_084956.jpg" width="120" height="120" align="left">
+<img src="https://github.com/AfrianiXD/AfrianiXD/blob/master/img/IMG_16606919484979803.jpg" width="120" height="120" align="left">
 <center>
 
 
